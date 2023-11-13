@@ -1,0 +1,267 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color:#0f1111;
+    
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 4px;
+}
+#logo:hover{
+    border: 1px solid white;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+.up{
+    height: 285px; 
+    background-image: url(img_1.jpg);
+    background-size: cover;  
+    background-repeat: no-repeat;
+}
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e2;
+
+}
+.box{
+    border: 2px solid black;
+    height: 300px;
+    width: 23%;
+    background-color: white;
+    color :black;
+    padding: 20px 0px 15px;
+    margin-top: 5px;
+    
+
+}
+#co1{
+    color: black;
+    margin-left: 10px;
+}
+
+#lo{
+    color: black;
+    margin-left: 10px;
+    
+}
+#co2{
+    color: #0f1111;
+    margin-left: 10px;
+}
+#co3{
+    color: #0f1111;
+    margin-left: 10px;
+}
+#co4{
+    color: #0f1111;
+    margin-left: 10px;
+}
+.box1-img{
+    height: 240px;
+    background-image: url(img_6.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box2-img{
+    height: 240px;
+    background-image: url(shampoo.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box3-img{
+    height: 240px;
+    background-image: url(shoe.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box4-img{
+    height: 240px;
+    background-image: url(cloths.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box5-img{
+    height: 240px;
+    background-image: url(fit.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box6-img{
+    height: 240px;
+    background-image: url(furniture.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box7-img{
+    height: 240px;
+    background-image: url(toys.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box8-img{
+    height: 240px;
+    background-image: url(gro.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box9-img{
+    height: 240px;
+    background-image: url(make.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box10-img{
+    height: 240px;
+    background-image: url(stationary.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box11-img{
+    height: 240px;
+    background-image: url(bags.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box12-img{
+    height: 240px;
+    background-image: url(shoe\ wo.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box13-img{
+    height: 240px;
+    background-image: url(sun.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box14-img{
+    height: 240px;
+    background-image: url(watches.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box15-img{
+    height: 240px;
+    background-image: url(kicl.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.box16-img{
+    height: 240px;
+    background-image: url(lights.jpg);
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.foot-panel1{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+   
+}
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px; 
+    display: flex; 
+    justify-content: space-evenly;
+   
+}
+ul{
+    margin-top: 20px;
+}
+ul a{
+    display: block;
+    justify-content: space-evenly;
+    margin-right: 20px;
+    padding-top: 10px;
+    color:#dddddd;
+}
+.foot-panel3{
+    background-color: #222f3d;
+    color: white;
+    height: 70px;
+    border-top: 0.5px solid white;
+    display: flex;
+    justify-content: center;
+    
+}
+.logo{
+    background-image: url(ama.png);
+    background-size: cover;
+    width: 100px;
+    height: 50px;
+}
+p{
+    padding-top:23px;
+}
+.foot-panel4{
+    background-color: #0f1111;
+    height: 100px;
+
+}
+.pages a{
+    margin: 10px;
+}
+.pages{
+    font-size: 0.9rem;
+    text-align: center;
+    padding-top: 25px;
+}
+.copyright{
+    font-size: 0.8rem;
+    padding-top: 5px;
+    text-align: center;
+}
+
